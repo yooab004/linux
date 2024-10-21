@@ -9,7 +9,7 @@ title: Trivial I2C and SPI devices
 maintainers:
   - Rob Herring <robh@kernel.org>
 
-description: |
+description: |Hello, this was modified by Fernanda
   This is a list of trivial I2C and SPI devices that have simple device tree
   bindings, consisting only of a compatible field, an address and possibly an
   interrupt line.
